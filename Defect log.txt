@@ -1,0 +1,2 @@
+Log the defects in Excel
+After meeting we can can log them in Rally
